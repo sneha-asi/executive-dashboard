@@ -3,14 +3,14 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, ResponsiveContainer } from 
 
 const TeamPerformanceChart = () => {
   const data = [
-    { name: 'Vishal Shaw', parts: 24.56, role: 'Specialist' },
-    { name: 'Rishav Verma', parts: 19.40, role: 'Specialist' },
-    { name: 'Sneha', parts: 16.50, role: 'Specialist' },
-    { name: 'Zoa', parts: 16.67, role: 'Specialist' },
-    { name: 'Ashmit B', parts: 16.44, role: 'Specialist' },
-    { name: 'Rabab', parts: 14.72, role: 'Specialist' },
-    { name: 'Shalaj Singh', parts: 14.31, role: 'Specialist' },
-    { name: 'Kartik', parts: 14.29, role: 'Automation' }
+    { name: 'Specialist A', parts: 24.56, role: 'Specialist' },
+    { name: 'Specialist B', parts: 19.40, role: 'Specialist' },
+    { name: 'Specialist C', parts: 16.50, role: 'Specialist' },
+    { name: 'Specialist D', parts: 16.67, role: 'Specialist' },
+    { name: 'Specialist E', parts: 16.44, role: 'Specialist' },
+    { name: 'Specialist F', parts: 14.72, role: 'Specialist' },
+    { name: 'Specialist G', parts: 14.31, role: 'Specialist' },
+    { name: 'Specialist H', parts: 14.29, role: 'Automation' }
   ];
 
   return (

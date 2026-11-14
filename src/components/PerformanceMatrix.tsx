@@ -6,14 +6,14 @@ import { TrendingUp, Users, Target } from "lucide-react";
 
 const PerformanceMatrix = () => {
   const teamMatrix = [
-    { name: 'Vishal Shaw', efficiency: 24.56, experience: 9, complexity: 8.5, quadrant: 'Star Performer' },
-    { name: 'Rishav Verma', efficiency: 19.40, experience: 7, complexity: 7.2, quadrant: 'High Performer' },
-    { name: 'Sneha', efficiency: 16.50, experience: 6, complexity: 6.8, quadrant: 'Solid Contributor' },
-    { name: 'Zoa', efficiency: 16.67, experience: 5, complexity: 6.5, quadrant: 'Solid Contributor' },
-    { name: 'Ashmit B', efficiency: 16.44, experience: 6, complexity: 6.7, quadrant: 'Solid Contributor' },
-    { name: 'Rabab', efficiency: 14.72, experience: 4, complexity: 5.8, quadrant: 'Developing' },
-    { name: 'Shalaj Singh', efficiency: 14.31, experience: 4, complexity: 5.5, quadrant: 'Developing' },
-    { name: 'Kartik', efficiency: 14.29, experience: 8, complexity: 9.2, quadrant: 'Automation Specialist' }
+    { name: 'Specialist A', efficiency: 24.56, experience: 9, complexity: 8.5, quadrant: 'Star Performer' },
+    { name: 'Specialist B', efficiency: 19.40, experience: 7, complexity: 7.2, quadrant: 'High Performer' },
+    { name: 'Specialist C', efficiency: 16.50, experience: 6, complexity: 6.8, quadrant: 'Solid Contributor' },
+    { name: 'Specialist D', efficiency: 16.67, experience: 5, complexity: 6.5, quadrant: 'Solid Contributor' },
+    { name: 'Specialist E', efficiency: 16.44, experience: 6, complexity: 6.7, quadrant: 'Solid Contributor' },
+    { name: 'Specialist F', efficiency: 14.72, experience: 4, complexity: 5.8, quadrant: 'Developing' },
+    { name: 'Specialist G', efficiency: 14.31, experience: 4, complexity: 5.5, quadrant: 'Developing' },
+    { name: 'Specialist H', efficiency: 14.29, experience: 8, complexity: 9.2, quadrant: 'Automation Specialist' }
   ];
 
   const weeklyTrends = [
